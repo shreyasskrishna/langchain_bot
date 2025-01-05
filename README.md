@@ -1,16 +1,12 @@
-I developed a chatbot using the Langchain framework, featuring Ollama's open-source LLM (llama2 uncensored) for robust language processing.
-The project employs Prompt Template for structured prompts and Output Parser for clear response formatting. 
-The user-friendly interface is built with Streamlit UI, while Langchain manages interaction and workflow coordination seamlessly.
+🧠 AI Chatbot Using Langchain & Ollama
+This project is a Langchain-powered chatbot utilizing Ollama’s open-source LLM (Llama2 Uncensored) for robust language processing.
+It ensures structured interactions, clear responses, and a seamless user experience with the following components:
 
+🔹 Key Components
+✔ Langchain – Manages chatbot interactions and workflow.
+✔ Ollama (Llama2 Uncensored) – Core LLM for generating responses.
+✔ Prompt Template – Structures prompts for effective communication.
+✔ Streamlit UI – Provides a user-friendly web interface.
+✔ Output Parser – Formats responses for clarity and coherence.
 
-Langchain: Manages interactions and orchestrates the chatbot's workflow.
-Ollama (llama2 uncensored): Serves as the core language model for generating responses.
-Prompt Template: Structures prompts to ensure clear and effective communication with the LLM.
-Streamlit UI: Provides a user-friendly web interface for interacting with the chatbot.
-Output Parser: Formats the chatbot's responses for clarity and coherence.
-
-
-
-
-
-
+🚀 A powerful, structured, and user-friendly AI chatbot!
